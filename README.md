@@ -1,9 +1,10 @@
 # Hello
 
-I’m @PayenThibaud 👋
+I’m @ThibaudPayen 👋
 
-I'm currently learning Git and GitHub, while also ungergoing training in .NET and C#.
+I'm currently ungergoing training in C# and .net.
 
 🌱 If you have any tips to share for learning, i would be happy to hear them. 👀
 
-📫 If you want to contact me, it's right here : Thibaudpayenbts@gmail.com
+📫 If you want to contact me, send me a private message. 👍
+
