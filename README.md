@@ -10,3 +10,23 @@ Welcome to my GitHub profile. I'm currently immersed in the world of C# and .NET
 
 Happy coding! 👨‍💻✨
 
+<br><br>
+</h2>
+<br><br>
+<div align="center"> 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=PayenThibaud&show_icons=true&theme=dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=PayenThibaud&show_icons=true&bg_color=3D516D&title_color=E0C4AE&text_color=ffffff&icon_color=E0C4AE"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+
+    
+  />
+  <img src="(https://github-readme-stats.vercel.app/api?username=PayenThibaud&show_icons=true&bg_color=3D516D&title_color=DDC2AF&text_color=ffffff&icon_color=DDC2AF"/>
+</picture>
+</div>
+
+<a>
